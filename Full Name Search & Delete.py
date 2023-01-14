@@ -3,8 +3,8 @@ print("IREANNE N. OMEGA")
 print("BSCOE 2-2\n")
 
 
-# This section contains my full name min & max value
-# as well as sorting in pre & post order
+# This section contains the process of deleting
+# and searching method
 
 class BinarySearchTreeNode:
     def __init__(self, data):
