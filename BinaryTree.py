@@ -3,10 +3,11 @@ print("PROGRAMMED BY:")
 print("IREANNE N. OMEGA")
 print("BSCOE 2-2\n")
 
-# This section contains all the
-# summarize codes
+# ======================== ==============================
+# This section contains all the summarize codes
+# =======================================================
 
-# ==== def class section ======
+# define class statement
 class BinarySearchTreeNode:
     def __init__(self, data):
         self.data = data
@@ -120,7 +121,7 @@ def build_tree(elements):
 
     return root
 
-  # ======================== if name class section ==============================
+  # ======================== if __name__ statement ==============================
 if __name__ == '__main__':
     print("-------------------------------------------------------------------------------\n")
     fullname = ["I", "R", "E", "A", "N", "N", "E",
